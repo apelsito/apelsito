@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gonzalo</h1>
 <h3 align="center">AKA Apple,</h3>
-
+Mentalidad práctica, creativa y orientada a resultados. Junto a mi experiencia en el sector de la informática y mi pasión por los datos, estoy convencido de que puedo aportar soluciones innovadoras en este sector.
 - 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **Why they call me Apple.**
